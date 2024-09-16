@@ -1,6 +1,6 @@
 mailto : ping@nischal.pro
 
-Focus: RUST | Zig | GO | TypeScript
+Currently focused on : rust | go | zig | typescript 
 
 As a firm believer in transhumanism, I envision a future where technology alleviates human suffering and fosters a more harmonious world.
 
