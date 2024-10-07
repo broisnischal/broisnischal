@@ -3,7 +3,7 @@
 
 A multifunctional Bash script for handling project setup, repository creation, npm tasks, Docker cleanup, and more. Designed to streamline your development workflow on macOS and Linux.
 
-Step 1: Download the Script
+### Step 1: Download the Script
 
 ```sh
 curl -s https://github.com/broisnischal/broisnischal/raw/main/bro -o bro
