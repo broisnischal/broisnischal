@@ -35,6 +35,17 @@ sudo mv bro /usr/local/bin/
 
 ```sh
 bro help
+
+backend git:(vms_backend_dev) bro help 
+Help:
+  create   - Create a new project or repository
+  setup    - Set up the environment
+  update   - Update the project
+  cleanup   - Clean up temporary files
+  npm      - Run npm commands
+  docker    - Run docker commands
+  search    - Search on Google or YouTube
+  help     - Show this help message
 ``` 
 
-(img)[https://files.oaiusercontent.com/file-8YlRsv3EGRS5UzhM5tiX3noq?se=2024-10-07T03%3A57%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=qFNSTvsDRYbF10OYV2faGUpeFHJA/UDBflHze9lzJ2Y%3D]
+
