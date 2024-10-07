@@ -24,3 +24,15 @@ Set the proper permissions to make it executable:
 ```sh
 chmod +x bro
 ```
+
+### Step 3: Add to path
+
+```sh
+sudo mv bro /usr/local/bin/
+```
+
+### Usage
+
+```sh
+bro help
+``` 
