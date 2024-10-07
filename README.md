@@ -7,7 +7,7 @@ As a firm believer in transhumanism, I envision a future where technology allevi
 [Codeium](https://codeium.com/profile/broisnischal) | [Links](https://nischal-dahal.com.np/links) | [Resume](https://nischal-dahal.com.np/resume) | [Blogs](https://nischal-dahal.com.np/blog) | [About](https://nischal-dahal.com.np/about)
 
 
-# (bro)[https://github.com/broisnischal/broisnischal/blob/main/bro]
+# [bro](https://github.com/broisnischal/broisnischal/blob/main/bro)
 
 A multifunctional Bash script for handling project setup, repository creation, npm tasks, Docker cleanup, and more. Designed to streamline your development workflow on macOS and Linux.
 
