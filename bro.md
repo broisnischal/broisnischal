@@ -27,15 +27,18 @@ sudo mv bro /usr/local/bin/
 
 ```sh
 bro help
+```
 
-backend git:(vms_backend_dev) bro help 
-Help:
-  create   - Create a new project or repository
-  setup    - Set up the environment
-  update   - Update the project
-  cleanup   - Clean up temporary files
-  npm      - Run npm commands
-  docker    - Run docker commands
-  search    - Search on Google or YouTube
-  help     - Show this help message
-``` 
+## Help
+
+| Command  | Description                        |
+|----------|------------------------------------|
+| `create` | Create a new project or repository |
+| `setup`  | Set up the environment             |
+| `update` | Update the project                 |
+| `cleanup`| Clean up temporary files           |
+| `npm`    | Run npm commands                   |
+| `docker` | Run docker commands                |
+| `search` | Search on Google or YouTube        |
+| `help`   | Show this help message             |
+
