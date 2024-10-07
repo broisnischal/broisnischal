@@ -9,7 +9,7 @@ As a firm believer in transhumanism, I envision a future where technology allevi
 
 # bro
 
-A script to fetch and execute the latest version of your bro file.
+A multifunctional Bash script for handling project setup, repository creation, npm tasks, Docker cleanup, and more. Designed to streamline your development workflow on macOS and Linux.
 
 Step 1: Download the Script
 
