@@ -1,4 +1,6 @@
+```sh
 npx ezyenv | bunx ezyenv
+```
 
 mailto : ping@nischal.pro
 
