@@ -1,3 +1,5 @@
+npx ezyenv | bunx ezyenv
+
 mailto : ping@nischal.pro
 
 Currently focused on : rust | go | zig | typescript 
